@@ -1,5 +1,12 @@
 # Changelog
 
+### [7.0.2](https://github.com/chingor13/test-release-please-go/compare/go-v7.0.1...gotestv7.0.2) (2022-03-21)
+
+
+### Bug Fixes
+
+* fake commit ([ba6d3ca](https://github.com/chingor13/test-release-please-go/commit/ba6d3ca5b06591b07739dfd975b1f5486c0527c7))
+
 ### [7.0.1](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v7.0.0...go-v7.0.1) (2022-03-19)
 
 
