@@ -1,5 +1,35 @@
 # Changelog
 
+## [8.0.0](https://www.github.com/chingor13/test-release-please-go/compare/go-v7.0.1...go-v8.0.0) (2022-03-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* e
+* wlol"
+* lol"
+* lol
+* lol
+
+### Features
+
+* a ([5e95f14](https://www.github.com/chingor13/test-release-please-go/commit/5e95f14c563186a2de53ea2e54134b62a81bef2b))
+* b ([552c978](https://www.github.com/chingor13/test-release-please-go/commit/552c978b2706761f5db281215a22030679c33012))
+* lol ([a0d680f](https://www.github.com/chingor13/test-release-please-go/commit/a0d680f8276b4f205412b5bb78cdb12b8124c8c8))
+* lol ([3302a69](https://www.github.com/chingor13/test-release-please-go/commit/3302a69560b53e8b4c6501af5a8bd7f0ef94e44c))
+* lol" ([0a6be79](https://www.github.com/chingor13/test-release-please-go/commit/0a6be79f6f3b87e86990ab5747312ff3418c06bf))
+* wlol" ([773e876](https://www.github.com/chingor13/test-release-please-go/commit/773e876580edc5994444fdbcd09947d2e786f42f))
+
+
+### Bug Fixes
+
+* a ([adc452b](https://www.github.com/chingor13/test-release-please-go/commit/adc452ba086d3005768ecc25baf74fca02cb6c88))
+* e ([ea0d97c](https://www.github.com/chingor13/test-release-please-go/commit/ea0d97c36a4b4e222f39d1bffb6a47b0ee5fe3b6))
+* fake commit ([ba6d3ca](https://www.github.com/chingor13/test-release-please-go/commit/ba6d3ca5b06591b07739dfd975b1f5486c0527c7))
+* lol ([dbd2220](https://www.github.com/chingor13/test-release-please-go/commit/dbd2220cc56e07c21f0f678058a60139d8ad4dc1))
+* test ([451f48a](https://www.github.com/chingor13/test-release-please-go/commit/451f48ad427ab9e8ac55602596150ce0a2e4f13d))
+* yup ([2d6c730](https://www.github.com/chingor13/test-release-please-go/commit/2d6c7306feaf26763f4fdcf0bba88c5d0576716d))
+
 ### [7.0.1](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v7.0.0...go-v7.0.1) (2022-03-19)
 
 
